@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=PrincipalMuseo
+comment0.text=\r\n\ Clase\ PrincipalMuseo\r\n\ Es\ la\ clase\ principal\ para\ ejecutar\ el\ programa\ del\ museo\r\n\ Crea\ objetos\ Persona\ y\ BoletoMuseo,\ registra\ ventas\ y\ muestra\ reportes\r\n\ \r\n\ @author\ Adri\u00E1n\ Ernesto\ Cascante\ P\u00E9rez\r\n\ @version\ 1.0\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

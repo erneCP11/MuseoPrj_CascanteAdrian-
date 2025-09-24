@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=VentaDelDia
+comment0.text=\r\n\ Clase\ VentaDelDia\r\n\ Representa\ la\ venta\ de\ boletos\ en\ un\ d\u00EDa\ espec\u00EDfico\ del\ museo\r\n\ Contiene\ la\ fecha\ y\ una\ lista\ de\ los\ boletos\ vendidos\r\n\ \r\n\ @author\ Adri\u00E1n\ Ernesto\ Cascante\ P\u00E9rez\r\n\ @version\ 1.0\r\n
+comment1.params=
+comment1.target=VentaDelDia()
+comment1.text=M\u00E9todo\ constructor\ que\ crea\ una\ venta\ con\ la\ fecha\ actual\ e\ inicializa\ la\ lista\ de\ los\ boletos\ vendidos.
+comment2.params=boleto
+comment2.target=void\ registrarVentaBoleto(BoletoMuseo)
+comment2.text=\ M\u00E9todo\ de\ instancia\ que\ registra\ un\ boleto\ vendido\ en\ la\ lista\r\n\ @param\ boleto\ boleto\ vendido\r\n
+comment3.params=
+comment3.target=double\ calcularTotalVentaDelDia()
+comment3.text=\ M\u00E9todo\ de\ instancia\ que\ calcula\ el\ total\ de\ la\ venta\ del\ d\u00EDa,\ sumando\ todos\ los\ precios\ de\ los\ boletos\ vendidos\r\n\ @return\ total\ de\ la\ venta\r\n
+comment4.params=
+comment4.target=java.lang.String\ establecerFechaDeLaVenta()
+comment4.text=\ M\u00E9todo\ de\ instancia\ que\ establece\ la\ fecha\ actual\ como\ fecha\ de\ venta\r\n\ @return\ fecha\ actual\ en\ formato\ yyyy-MM-dd\r\n
+comment5.params=
+comment5.target=java.lang.String\ toString()
+comment5.text=\ M\u00E9todo\ de\ instancia\ que\ devuelve\ una\ representaci\u00F3n\ textual\ de\ la\ venta\ del\ d\u00EDa\r\n\ @return\ cadena\ con\ fecha,\ cantidad\ de\ boletos,\ detalley\ total\r\n
+numComments=6
